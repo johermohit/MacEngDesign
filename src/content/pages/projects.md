@@ -28,6 +28,6 @@ The success of this initial workshop led to the design of a second workshop that
 ### ISSOTL Presentations
 
 - November 2022
-- November 2023 [Download Full Research Paper (PDF)](/documents/research-paper.pdf)
+- November 2023 [Download Full Research Paper (PDF)](/MacEngDesign/documents/research-paper.pdf)
 
-## Testign mdk chnages 
+## Testign mdk chnages

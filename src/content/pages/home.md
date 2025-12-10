@@ -2,7 +2,7 @@
 title: "Engineering Empathy"
 subtitle: "Reimagining Empathetic, Student-Partnered Learning in Engineering Design"
 description: "Pioneering innovative teaching and learning models that integrate design thinking, empathy, and inclusivity into engineering."
-heroImage: "/images/Engineering-Design-092-2000x988.jpg"
+heroImage: "/MacEngDesign/images/Engineering-Design-092-2000x988.jpg"
 ---
 
 # Engineering Empathy
@@ -11,5 +11,5 @@ Engineering education is evolving to embrace human-centered, equity-driven appro
 
 We are building a future where technical mastery meets human understanding.
 
-![Engineering Design Workshop](/images/Engineering-Design-035-688x632.jpg)
+![Engineering Design Workshop](/MacEngDesign/images/Engineering-Design-035-688x632.jpg)
 *Students engaging in hands-on engineering design.*

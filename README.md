@@ -41,3 +41,9 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+## 🚀 Deployment
+
+The site is hosted on GitHub Pages and deploys automatically on push.
+- **Live Site**: [https://johermohit.github.io/MacEngDesign/](https://johermohit.github.io/MacEngDesign/)
+- **Workflow Status**: [![Deploy to GitHub Pages](https://github.com/johermohit/MacEngDesign/actions/workflows/deploy.yml/badge.svg)](https://github.com/johermohit/MacEngDesign/actions/workflows/deploy.yml)

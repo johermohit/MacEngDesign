@@ -29,9 +29,9 @@ These insights advocate for integrating students’ lived experiences into desig
 - **McMaster Conference on Education and Cognition 2022**: Poster
 
 ### Media & Downloads
-![Research Team Discussion](/images/placeholder-team.jpg)
+![Research Team Discussion](/MacEngDesign/images/placeholder-team.jpg)
 *Caption: Our team discussing inclusive design principles.*
 
-[Download Full Research Paper (PDF)](/documents/research-paper.pdf)
+[Download Full Research Paper (PDF)](/MacEngDesign/documents/research-paper.pdf)
 
 For more information, visit the [McMaster Engineering Website](https://www.eng.mcmaster.ca/).

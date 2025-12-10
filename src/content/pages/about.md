@@ -19,11 +19,11 @@ True innovation happens when analytical precision meets empathy, when human-cent
 ## Meet the Team
 
 ### Robert Fleisig
-<img src="/images/Robert_Fleisig.jpg" alt="Robert Fleisig" class="w-64 h-64 object-cover rounded-2xl shadow-md mb-4" />
+<img src="/MacEngDesign/images/Robert_Fleisig.jpg" alt="Robert Fleisig" class="w-64 h-64 object-cover rounded-2xl shadow-md mb-4" />
 
 Leading the MED program, Robert Fleisig is an award-winning educator, engineering designer and expert in health technology. He is passionate about teaching an empathetic and human-centred approach to engineering design.
 
 ### Andrea Hemmerich
-<img src="/images/Andrea_Hemmerich_headshot.jpg" alt="Andrea Hemmerich" class="w-64 h-64 object-cover rounded-2xl shadow-md mb-4" />
+<img src="/MacEngDesign/images/Andrea_Hemmerich_headshot.jpg" alt="Andrea Hemmerich" class="w-64 h-64 object-cover rounded-2xl shadow-md mb-4" />
 
 A dedicated educator and global health advocate, Andrea has over two decades of experience spanning design, engineering, health, and international development. Passionate about creating inclusive, team-driven environments, she believes that placing people’s aspirations at the heart of collaborative efforts leads to impactful social change.
