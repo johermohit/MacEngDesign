@@ -1,0 +1,29 @@
+---
+const links = [
+  { href: '/', label: 'Home' },
+  { href: '/about', label: 'About' },
+  { href: '/research', label: 'Research' },
+  { href: '/projects', label: 'Projects' },
+];
+---
+
+<header class="w-full py-6 px-8 flex justify-between items-center bg-white/80 backdrop-blur-md sticky top-0 z-50 border-b border-gray-100">
+  <a href="/" class="text-xl font-serif font-bold tracking-tight text-slate-900">
+    Engineering Empathy
+  </a>
+  
+  <nav class="hidden md:flex gap-8">
+    {links.map(link => (
+      <a 
+        href={link.href} 
+        class="text-sm font-medium text-slate-600 hover:text-slate-900 transition-colors duration-200"
+      >
+        {link.label}
+      </a>
+    ))}
+  </nav>
+
+  <button class="md:hidden p-2 text-slate-600">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+  </button>
+</header>
