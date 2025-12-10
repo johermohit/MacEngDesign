@@ -13,4 +13,6 @@ export default defineConfig({
   integrations: [react()],
   site: 'https://johermohit.github.io',
   base: '/MacEngDesign',
+  // GitHub Pages generally works best without trailing slashes for files
+  trailingSlash: 'ignore',
 });
