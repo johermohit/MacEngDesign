@@ -35,3 +35,5 @@ These insights advocate for integrating students’ lived experiences into desig
 [Download Full Research Paper (PDF)](/MacEngDesign/documents/research-paper.pdf)
 
 For more information, visit the [McMaster Engineering Website](https://www.eng.mcmaster.ca/).
+
+### Putting studnent reserch in the frontend 
